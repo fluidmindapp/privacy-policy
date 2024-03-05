@@ -1,8 +1,8 @@
 <h1 align="center">FluidMind Privacy Policy</h1>
 
-Last modified: 02/21/24
+Last modified: 03/04/24
 
-Euthymia Technologies (“we”) respect your privacy and are committed to protecting it by complying with this policy.
+Euthymia Technologies (“we, us, our”) respect your privacy and are committed to protecting it by complying with this policy.
 
 This policy describes:
 
@@ -53,7 +53,7 @@ When you download, access, and use the App, it may automatically collect:
 
 The technologies we use for this automatic data collection may include:
 
-* <u>Mobile cookies</u>: A cookie is a small file placed on your smartphone. It may be possible to refuse to accept mobile cookies by activating the appropriate setting on your smartphone. However, if you select this setting, you may be unable to access certain parts of our App.
+* <u>Mobile cookies</u>: A cookie is a small file placed on your smartphone, used to recognize users and their preferences on subsequent visits for tracking movement across other websites. It may be possible to refuse to accept mobile cookies by activating the appropriate setting on your smartphone. However, if you select this setting, you may be unable to access certain parts of our App.
 * <u>Web beacons</u>: Pages of the App and our emails may contain small electronic files known as web beacons that permit Euthymia Technologies, for example, to count users who have visited those pages or for other related App statistics.
 
 The information we collect automatically is statistical and does not include personal information. We may maintain it or associate it with personal information we collect in other ways, that you provide to us or receive from third parties. This usage information helps us to improve our App and deliver a more personalized service, including by helping us to:
@@ -72,7 +72,13 @@ When you use the App or its content, certain third parties collect information a
 * Your mobile device manufacturer.
 * Your mobile service provider.
 
-These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about you when you use the App. The information they collect may be associated with your personal information. They may use this information to provide you with behavioural advertising or other targeted content. In addition to helping advertisers reach the right people for their products and services, behavioural advertising helps support the App so that you can enjoy free content.
+These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about you when you use the App. The information they collect may include information such as:
+
+* User interactions with ads.
+* Device information, including IP address and Device ID.
+* User-related performance data such as app launch time.
+
+This information may be associated with your personal information. The third parties may use this information to provide you with behavioural advertising or other targeted content. In addition to helping advertisers reach the right people for their products and services, behavioural advertising helps support the App so that you can enjoy free content.
 
 We do not control these third parties’ tracking technologies or how they use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
@@ -120,7 +126,7 @@ By submitting your personal information or engaging with the App, you consent to
 
 ### DATA SECURITY
 
-The security of your personal information is of utmost importance to us. We use physical, electronic, and administrative measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. We store all information you provide to us behind firewalls on our secure servers.
+The security of your personal information is of utmost importance to us. We use physical, electronic, and administrative measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. Results from the App are encrypted and stored locally on your device.
 
 Unfortunately, the transmission of information via the Internet and mobile platforms is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted through the App. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any App privacy settings or security measures.
 
