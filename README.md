@@ -1,13 +1,13 @@
 <h1 align="center">FluidMind Privacy Policy</h1>
 
-Last modified: 03/04/24
+Last modified: April 29, 2024
 
 Euthymia Technologies (“we, us, our”) respect your privacy and are committed to protecting it by complying with this policy.
 
 This policy describes:
 
-* The types of information we may collect or that app users (“you”) may provide when you download, install, or use FluidMind (the “App”).
-* Our practices for collecting, using, maintaining, protecting, and disclosing that information.
+- The types of information we may collect or that app users (“you”) may provide when you download, install, or use FluidMind (the “App”).
+- Our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 We will only use your personal information in accordance with this policy unless otherwise required by applicable law. We take steps to ensure that the personal information that we collect about you is adequate, relevant, not excessive, and used for limited purposes.
 
@@ -17,8 +17,8 @@ This policy applies only to information we collect in this App, and other electr
 
 This policy DOES NOT apply to information that:
 
-* We collect offline or on any other Euthymia Technologies app, including websites you may access through this App.
-* You provide to or is collected by any third party.
+- We collect offline or on any other Euthymia Technologies app, including websites you may access through this App.
+- You provide to or is collected by any third party.
 
 These third parties may have their own privacy policies, which we encourage you to read before providing information on or through them.
 
@@ -28,57 +28,51 @@ Please read this policy carefully to understand our policies and practices for c
 
 We collect information about you through:
 
-* Direct interactions with you when you provide it to us, such as by corresponding with us.
-* Automated technologies or interactions, when you use the App, for example, usage details, IP addresses, and information collected through cookies, and other tracking technologies.
+- Direct interactions with you when you provide it to us, such as by corresponding with us.
+- Automated technologies or interactions, when you use the App, for example, usage details, IP addresses, and information collected through cookies, and other tracking technologies.
 
 The types of information that we collect include:
 
-* <u>Personal information</u> that we can reasonably use to directly or indirectly identify you, such as your name, email address, telephone number, internet protocol (IP) address, and any other identifier we may use to contact you.
-* <u>Non-personal information</u> that does not directly or indirectly reveal your identity or directly relate to an identified individual, such as demographic, statistical, or aggregated information. We may derive non-personal statistical or aggregated data from personal information. For example, we may aggregate personal information to calculate the percentage of users accessing a specific app feature.
-* <u>Technical information</u>, including your device type, time zone setting, and usage details.
+- <u>Personal information</u> that we can reasonably use to directly or indirectly identify you, such as your name, email address, telephone number, internet protocol (IP) address, and any other identifier we may use to contact you.
+- <u>Non-personal information</u> that does not directly or indirectly reveal your identity or directly relate to an identified individual, such as demographic, statistical, or aggregated information. We may derive non-personal statistical or aggregated data from personal information. For example, we may aggregate personal information to calculate the percentage of users accessing a specific app feature.
+- <u>Technical information</u>, including your device type, time zone setting, and usage details.
 
-***Information You Provide to Us***
+**_Information You Provide to Us_**
 
 When you download or use this App, we may ask you to provide:
 
-* Records and copies of your correspondence, including email addresses and phone numbers, if you contact us.
+- Records and copies of your correspondence, including email addresses and phone numbers, if you contact us.
 
-***Automated Information Collection and Tracking Technologies***
+**_Automated Information Collection and Tracking Technologies_**
 
 When you download, access, and use the App, it may automatically collect:
 
-* <u>Usage details</u>: When you access and use the App, we may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and other communication data and the resources that you can access and use on or through the App.
-* <u>Device information</u>: We may collect information about your mobile device and internet connection, including the device’s unique identifier, IP address, operating system, browser type, and mobile network information.
-* <u>Location information</u>: This App does not collect real-time information about the location of your device.
+- <u>Usage details</u>: When you access and use the App, we may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and other communication data and the resources that you can access and use on or through the App.
+- <u>Device information</u>: We may collect information about your mobile device and internet connection, including the device’s unique identifier, IP address, operating system, browser type, and mobile network information.
+- <u>Location information</u>: This App may collect your IP address, which may be used to estimate the general location of a device.
 
 The technologies we use for this automatic data collection may include:
 
-* <u>Mobile cookies</u>: A cookie is a small file placed on your smartphone, used to recognize users and their preferences on subsequent visits for tracking movement across other websites. It may be possible to refuse to accept mobile cookies by activating the appropriate setting on your smartphone. However, if you select this setting, you may be unable to access certain parts of our App.
-* <u>Web beacons</u>: Pages of the App and our emails may contain small electronic files known as web beacons that permit Euthymia Technologies, for example, to count users who have visited those pages or for other related App statistics.
+- <u>Mobile cookies</u>: A cookie is a small file placed on your smartphone, used to recognize users and their preferences on subsequent visits for tracking movement across other websites. It may be possible to refuse to accept mobile cookies by activating the appropriate setting on your smartphone. However, if you select this setting, you may be unable to access certain parts of our App.
+- <u>Web beacons</u>: Pages of the App and our emails may contain small electronic files known as web beacons that permit Euthymia Technologies, for example, to count users who have visited those pages or for other related App statistics.
 
 The information we collect automatically is statistical and does not include personal information. We may maintain it or associate it with personal information we collect in other ways, that you provide to us or receive from third parties. This usage information helps us to improve our App and deliver a more personalized service, including by helping us to:
 
-* Estimate our audience size and usage patterns.
-* Recognize you when you use the App.
+- Estimate our audience size and usage patterns.
+- Recognize you when you use the App.
 
 If you do not want us to collect this information, do not download the App or delete it from your device.
 
-***Third-Party Information Collection***
+**_Third-Party Information Collection_**
 
-When you use the App or its content, certain third parties collect information about you or your device. These third parties may include:
+When you use the App, it may collect the following information from your device and share it with third party advertisers:
 
-* Advertisers, ad networks, and ad servers.
-* Analytics companies.
-* Your mobile device manufacturer.
-* Your mobile service provider.
+- <u>Device information</u>: This includes IP address, which may be used to estimate the device’s general location, and Device ID, such as the device’s advertising identifier.
+- <u>Usage information</u>: This includes user-associated performance data, such as app launch time, hang rate, or energy usage. This data may be used to evaluate user behaviour, plan new features, and to display ads. The App may also collect user interaction information, such as app launch taps and video views, to improve advertising performance.
+- <u>Advertising information</u>: This includes advertisements the user has seen, which may be used to power analytics and advertising features.
+- <u>Non-user related crash logs</u>: This information may be used to detect problems and improve the software development kit and may be used for advertising and analytics.
 
-These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about you when you use the App. The information they collect may include information such as:
-
-* User interactions with ads.
-* Device information, including IP address and Device ID.
-* User-related performance data such as app launch time.
-
-This information may be associated with your personal information. The third parties may use this information to provide you with behavioural advertising or other targeted content. In addition to helping advertisers reach the right people for their products and services, behavioural advertising helps support the App so that you can enjoy free content.
+These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about you when you use the App.
 
 We do not control these third parties’ tracking technologies or how they use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
@@ -86,35 +80,35 @@ We do not control these third parties’ tracking technologies or how they use t
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
-* To provide you with the App and its contents.
-* To provide you with information or services that you request from us.
-* To fulfill the purposes for which you provided it or that were described when it was collected or any other purpose for which you provide it.
-* To carry out our obligations and enforce our rights in any contracts with you, including to comply with legal requirements.
-* To notify you when App updates are available, and of changes to any products or services we offer or provide through it.
-* To improve our App, services, or customer relationships and experiences.
-* For marketing purposes.
-* To measure or understand the effectiveness of the advertising we serve to you and others, and to deliver relevant advertising to you.
-* For any other purpose with your consent.
+- To provide you with the App and its contents.
+- To provide you with information or services that you request from us.
+- To fulfill the purposes for which you provided it or that were described when it was collected or any other purpose for which you provide it.
+- To carry out our obligations and enforce our rights in any contracts with you, including to comply with legal requirements.
+- To notify you when App updates are available, and of changes to any products or services we offer or provide through it.
+- To improve our App, services, or customer relationships and experiences.
+- For marketing purposes.
+- To measure or understand the effectiveness of the advertising we serve to you and others, and to deliver relevant advertising to you.
+- For any other purpose with your consent.
 
 Usage information that we collect helps us to improve our App and to deliver a better and more personalized experience, including by enabling us to:
 
-* Estimate our audience size and usage patterns.
-* Recognize you when you use the App.
+- Estimate our audience size and usage patterns.
+- Recognize you when you use the App.
 
 ### DISCLOSURE OF YOUR INFORMATION
 
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
 We may disclose personal information that we collect, or you provide as described in this privacy policy:
 
-* To third parties to market their products or services to you if you have consented to these disclosures. 
-* To contractors, service providers, and other third parties we use to support our business, such as analytics that help us optimize and improve our services. 
-* To fulfill the purpose for which you provide it.
-* For any other purpose we disclose when you provide the information.
-* With your consent.
-* To comply with any court order, law, or legal process, including to respond to any government or regulatory request, according to applicable law.
-* To enforce our rights arising from any contracts between you and us.
-* If we believe disclosure if necessary or appropriate to protect the rights, property, or safety of Euthymia Technologies, our customers, or others.
+- To third parties to market their products or services to you if you have consented to these disclosures.
+- To contractors, service providers, and other third parties we use to support our business, such as analytics that help us optimize and improve our services.
+- To fulfill the purpose for which you provide it.
+- For any other purpose we disclose when you provide the information.
+- With your consent.
+- To comply with any court order, law, or legal process, including to respond to any government or regulatory request, according to applicable law.
+- To enforce our rights arising from any contracts between you and us.
+- If we believe disclosure if necessary or appropriate to protect the rights, property, or safety of Euthymia Technologies, our customers, or others.
 
 ### TRANSFERRING YOUR PERSONAL INFORMATION
 
@@ -140,17 +134,17 @@ Our App is not intended for minors under the age of majority in the province or 
 
 ### ACCESSING AND CORRECTING YOUR PERSONAL INFORMATION
 
-It is important that the personal information we hold about you is accurate and current. 
+It is important that the personal information we hold about you is accurate and current.
 
-If you want to review, verify, correct, or withdraw consent to the use of your personal information you may also send us an email at [fluidmindapp@gmail.com](mailto:fluidmindapp@gmail.com) to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
+If you want to review, verify, correct, or withdraw consent to the use of your personal information you may also send us an email at [fluidmindapp@gmail.com](mailto:fluidmindapp@gmail.com) to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 We may request specific information from you to help us confirm your identity and your right to access, and to provide you with the personal information that we hold about you or make your requested changes. Applicable law may allow or require us to refuse to provide you with access to some or all of the personal information that we hold about you, or we may have destroyed, erased, or made your personal information anonymous in accordance with our record retention obligations and practices. If we cannot provide you with access to your personal information, we will inform you or the reasons why, subject to any legal or regulatory restrictions.
 
 We will provide access to your personal information, subject to exceptions set out in applicable privacy legislation. Examples of such exceptions include:
 
-* Information protected by solicitor-client privilege.
-* Information that is part of a formal dispute resolution process.
-* Information that is prohibitively expensive to provide.
+- Information protected by solicitor-client privilege.
+- Information that is part of a formal dispute resolution process.
+- Information that is prohibitively expensive to provide.
 
 If you are concerned about our response or would like to correct the information provided, you may contact our Privacy Officer at [fluidmindapp@gmail.com](mailto:fluidmindapp@gmail.com).
 
